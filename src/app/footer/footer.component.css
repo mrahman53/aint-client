@@ -1,0 +1,21 @@
+.footer
+{
+  clear: both;
+  border: 1px groove #aaaaaa;
+  background: cadetblue;
+  color: White;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+  line-height: normal;
+  margin: 0;
+  position: fixed;
+  left: 0;
+  bottom: 0px;
+  width: 100%;
+}
+h2{
+  font-family: Verdana;
+  font-size: 30px;
+  color: darkgoldenrod;
+}
